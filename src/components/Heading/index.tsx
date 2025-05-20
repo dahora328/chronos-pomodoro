@@ -1,4 +1,4 @@
-import sytles from './Heading.module.css';
+import sytles from './styles.module.css';
 
 type HeadingProps = {
   children: React.ReactNode;
