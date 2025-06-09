@@ -48,7 +48,7 @@ export function MainForm() {
         activeTask: newTask,
         currentCycle: nextCycle, //Conferir
         secondsRemaining, //Conferir
-        formattedSecondsReamaining: formatSecondsToMinutes(secondsRemaining), //Conferir
+        formattedSecondsRemaining: formatSecondsToMinutes(secondsRemaining), //Conferir
         tasks: [...prevState.tasks, newTask],
       };
     });
