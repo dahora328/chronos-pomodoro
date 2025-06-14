@@ -10,7 +10,11 @@ export function Cycles() {
 
   const cycleDescriptionMap = {
     workTime: 'foco',
+<<<<<<< HEAD
     shortBreakTime: 'decanso curso',
+=======
+    shortBreakTime: 'descanso curso',
+>>>>>>> 8f87478efcee6a105b2dac7265f25a7b068f7028
     longBreakTime: 'descanso longo',
   };
 
